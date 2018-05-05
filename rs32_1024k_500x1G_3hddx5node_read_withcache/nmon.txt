@@ -1,0 +1,211 @@
+2018-04-12 04:57:41,301 INFO fs.TestDFSIO: TestDFSIO.1.8
+2018-04-12 04:57:41,306 INFO fs.TestDFSIO: nrFiles = 500
+2018-04-12 04:57:41,306 INFO fs.TestDFSIO: nrBytes (MB) = 1000.0
+2018-04-12 04:57:41,306 INFO fs.TestDFSIO: bufferSize = 1000000
+2018-04-12 04:57:41,306 INFO fs.TestDFSIO: baseDir = /benchmarks/TestDFSIO
+2018-04-12 04:57:42,254 INFO fs.TestDFSIO: erasureCodePolicy = RS-3-2-1024k
+2018-04-12 04:57:42,272 INFO fs.TestDFSIO: storagePolicy = HOT
+2018-04-12 04:57:42,272 INFO fs.TestDFSIO: creating control file: 1048576000 bytes, 500 files
+2018-04-12 04:58:00,018 INFO fs.TestDFSIO: created control files for: 500 files
+2018-04-12 04:58:00,118 INFO client.RMProxy: Connecting to ResourceManager at hadoop2/172.24.37.12:8032
+2018-04-12 04:58:00,288 INFO client.RMProxy: Connecting to ResourceManager at hadoop2/172.24.37.12:8032
+2018-04-12 04:58:00,378 INFO mapreduce.JobResourceUploader: Disabling Erasure Coding for path: /tmp/hadoop-yarn/staging/root/.staging/job_1523429052146_0013
+2018-04-12 04:58:00,538 INFO mapred.FileInputFormat: Total input files to process : 500
+2018-04-12 04:58:00,677 INFO mapreduce.JobSubmitter: number of splits:500
+2018-04-12 04:58:00,721 INFO Configuration.deprecation: io.bytes.per.checksum is deprecated. Instead, use dfs.bytes-per-checksum
+2018-04-12 04:58:00,722 INFO Configuration.deprecation: yarn.resourcemanager.system-metrics-publisher.enabled is deprecated. Instead, use yarn.system-metrics-publisher.enabled
+2018-04-12 04:58:00,827 INFO mapreduce.JobSubmitter: Submitting tokens for job: job_1523429052146_0013
+2018-04-12 04:58:00,829 INFO mapreduce.JobSubmitter: Executing with tokens: []
+2018-04-12 04:58:01,011 INFO conf.Configuration: resource-types.xml not found
+2018-04-12 04:58:01,011 INFO resource.ResourceUtils: Unable to find 'resource-types.xml'.
+2018-04-12 04:58:01,060 INFO impl.YarnClientImpl: Submitted application application_1523429052146_0013
+2018-04-12 04:58:01,092 INFO mapreduce.Job: The url to track the job: http://hadoop2:8088/proxy/application_1523429052146_0013/
+2018-04-12 04:58:01,093 INFO mapreduce.Job: Running job: job_1523429052146_0013
+2018-04-12 04:58:08,223 INFO mapreduce.Job: Job job_1523429052146_0013 running in uber mode : false
+2018-04-12 04:58:08,225 INFO mapreduce.Job:  map 0% reduce 0%
+2018-04-12 04:58:25,388 INFO mapreduce.Job:  map 4% reduce 0%
+2018-04-12 04:58:26,394 INFO mapreduce.Job:  map 5% reduce 0%
+2018-04-12 04:58:29,412 INFO mapreduce.Job:  map 6% reduce 0%
+2018-04-12 04:58:38,460 INFO mapreduce.Job:  map 7% reduce 0%
+2018-04-12 04:58:44,493 INFO mapreduce.Job:  map 8% reduce 0%
+2018-04-12 04:58:48,516 INFO mapreduce.Job:  map 9% reduce 0%
+2018-04-12 04:58:51,530 INFO mapreduce.Job:  map 10% reduce 0%
+2018-04-12 04:58:55,555 INFO mapreduce.Job:  map 11% reduce 0%
+2018-04-12 04:58:58,572 INFO mapreduce.Job:  map 12% reduce 0%
+2018-04-12 04:59:01,587 INFO mapreduce.Job:  map 12% reduce 3%
+2018-04-12 04:59:03,596 INFO mapreduce.Job:  map 13% reduce 3%
+2018-04-12 04:59:06,611 INFO mapreduce.Job:  map 14% reduce 3%
+2018-04-12 04:59:07,615 INFO mapreduce.Job:  map 14% reduce 4%
+2018-04-12 04:59:11,637 INFO mapreduce.Job:  map 15% reduce 4%
+2018-04-12 04:59:14,651 INFO mapreduce.Job:  map 16% reduce 4%
+2018-04-12 04:59:18,672 INFO mapreduce.Job:  map 17% reduce 4%
+2018-04-12 04:59:19,677 INFO mapreduce.Job:  map 17% reduce 5%
+2018-04-12 04:59:22,693 INFO mapreduce.Job:  map 18% reduce 5%
+2018-04-12 04:59:25,708 INFO mapreduce.Job:  map 19% reduce 5%
+2018-04-12 04:59:31,736 INFO mapreduce.Job:  map 20% reduce 6%
+2018-04-12 04:59:34,748 INFO mapreduce.Job:  map 21% reduce 6%
+2018-04-12 04:59:38,765 INFO mapreduce.Job:  map 22% reduce 6%
+2018-04-12 04:59:42,781 INFO mapreduce.Job:  map 23% reduce 6%
+2018-04-12 04:59:43,786 INFO mapreduce.Job:  map 23% reduce 7%
+2018-04-12 04:59:47,805 INFO mapreduce.Job:  map 24% reduce 7%
+2018-04-12 04:59:50,818 INFO mapreduce.Job:  map 25% reduce 7%
+2018-04-12 04:59:56,845 INFO mapreduce.Job:  map 26% reduce 7%
+2018-04-12 05:00:01,866 INFO mapreduce.Job:  map 27% reduce 8%
+2018-04-12 05:00:06,887 INFO mapreduce.Job:  map 28% reduce 8%
+2018-04-12 05:00:11,911 INFO mapreduce.Job:  map 29% reduce 8%
+2018-04-12 05:00:13,920 INFO mapreduce.Job:  map 29% reduce 9%
+2018-04-12 05:00:15,930 INFO mapreduce.Job:  map 30% reduce 9%
+2018-04-12 05:00:19,946 INFO mapreduce.Job:  map 31% reduce 9%
+2018-04-12 05:00:24,967 INFO mapreduce.Job:  map 32% reduce 9%
+2018-04-12 05:00:30,991 INFO mapreduce.Job:  map 33% reduce 9%
+2018-04-12 05:00:31,995 INFO mapreduce.Job:  map 33% reduce 10%
+2018-04-12 05:00:39,024 INFO mapreduce.Job:  map 34% reduce 10%
+2018-04-12 05:00:45,047 INFO mapreduce.Job:  map 35% reduce 10%
+2018-04-12 05:00:49,063 INFO mapreduce.Job:  map 36% reduce 10%
+2018-04-12 05:00:50,067 INFO mapreduce.Job:  map 36% reduce 11%
+2018-04-12 05:00:56,090 INFO mapreduce.Job:  map 37% reduce 11%
+2018-04-12 05:01:01,109 INFO mapreduce.Job:  map 38% reduce 11%
+2018-04-12 05:01:06,127 INFO mapreduce.Job:  map 39% reduce 11%
+2018-04-12 05:01:08,134 INFO mapreduce.Job:  map 39% reduce 12%
+2018-04-12 05:01:10,142 INFO mapreduce.Job:  map 40% reduce 12%
+2018-04-12 05:01:19,175 INFO mapreduce.Job:  map 41% reduce 12%
+2018-04-12 05:01:20,179 INFO mapreduce.Job:  map 41% reduce 13%
+2018-04-12 05:01:24,194 INFO mapreduce.Job:  map 42% reduce 13%
+2018-04-12 05:01:28,208 INFO mapreduce.Job:  map 43% reduce 13%
+2018-04-12 05:01:32,221 INFO mapreduce.Job:  map 44% reduce 13%
+2018-04-12 05:01:38,241 INFO mapreduce.Job:  map 44% reduce 14%
+2018-04-12 05:01:39,243 INFO mapreduce.Job:  map 45% reduce 14%
+2018-04-12 05:01:41,250 INFO mapreduce.Job:  map 46% reduce 14%
+2018-04-12 05:01:47,271 INFO mapreduce.Job:  map 47% reduce 14%
+2018-04-12 05:01:50,280 INFO mapreduce.Job:  map 48% reduce 15%
+2018-04-12 05:01:56,299 INFO mapreduce.Job:  map 49% reduce 15%
+2018-04-12 05:02:00,312 INFO mapreduce.Job:  map 50% reduce 15%
+2018-04-12 05:02:02,318 INFO mapreduce.Job:  map 50% reduce 16%
+2018-04-12 05:02:04,325 INFO mapreduce.Job:  map 51% reduce 16%
+2018-04-12 05:02:06,333 INFO mapreduce.Job:  map 52% reduce 16%
+2018-04-12 05:02:09,343 INFO mapreduce.Job:  map 53% reduce 16%
+2018-04-12 05:02:14,360 INFO mapreduce.Job:  map 53% reduce 17%
+2018-04-12 05:02:17,370 INFO mapreduce.Job:  map 54% reduce 17%
+2018-04-12 05:02:20,379 INFO mapreduce.Job:  map 55% reduce 17%
+2018-04-12 05:02:24,393 INFO mapreduce.Job:  map 56% reduce 17%
+2018-04-12 05:02:31,414 INFO mapreduce.Job:  map 57% reduce 17%
+2018-04-12 05:02:32,416 INFO mapreduce.Job:  map 57% reduce 18%
+2018-04-12 05:02:36,429 INFO mapreduce.Job:  map 58% reduce 18%
+2018-04-12 05:02:39,438 INFO mapreduce.Job:  map 59% reduce 18%
+2018-04-12 05:02:44,454 INFO mapreduce.Job:  map 59% reduce 19%
+2018-04-12 05:02:45,457 INFO mapreduce.Job:  map 60% reduce 19%
+2018-04-12 05:02:51,475 INFO mapreduce.Job:  map 61% reduce 19%
+2018-04-12 05:02:57,494 INFO mapreduce.Job:  map 62% reduce 19%
+2018-04-12 05:03:02,511 INFO mapreduce.Job:  map 62% reduce 20%
+2018-04-12 05:03:04,518 INFO mapreduce.Job:  map 63% reduce 20%
+2018-04-12 05:03:06,523 INFO mapreduce.Job:  map 64% reduce 20%
+2018-04-12 05:03:12,540 INFO mapreduce.Job:  map 65% reduce 20%
+2018-04-12 05:03:15,549 INFO mapreduce.Job:  map 66% reduce 21%
+2018-04-12 05:03:18,556 INFO mapreduce.Job:  map 67% reduce 21%
+2018-04-12 05:03:20,563 INFO mapreduce.Job:  map 68% reduce 21%
+2018-04-12 05:03:21,568 INFO mapreduce.Job:  map 68% reduce 22%
+2018-04-12 05:03:23,575 INFO mapreduce.Job:  map 69% reduce 22%
+2018-04-12 05:03:24,579 INFO mapreduce.Job:  map 70% reduce 22%
+2018-04-12 05:03:27,588 INFO mapreduce.Job:  map 70% reduce 23%
+2018-04-12 05:03:28,592 INFO mapreduce.Job:  map 71% reduce 23%
+2018-04-12 05:03:31,600 INFO mapreduce.Job:  map 72% reduce 23%
+2018-04-12 05:03:33,608 INFO mapreduce.Job:  map 73% reduce 24%
+2018-04-12 05:03:35,614 INFO mapreduce.Job:  map 74% reduce 24%
+2018-04-12 05:03:39,626 INFO mapreduce.Job:  map 75% reduce 24%
+2018-04-12 05:03:40,628 INFO mapreduce.Job:  map 76% reduce 24%
+2018-04-12 05:03:41,631 INFO mapreduce.Job:  map 77% reduce 24%
+2018-04-12 05:03:45,643 INFO mapreduce.Job:  map 78% reduce 25%
+2018-04-12 05:03:48,652 INFO mapreduce.Job:  map 79% reduce 25%
+2018-04-12 05:03:49,654 INFO mapreduce.Job:  map 80% reduce 25%
+2018-04-12 05:03:51,661 INFO mapreduce.Job:  map 80% reduce 26%
+2018-04-12 05:03:52,664 INFO mapreduce.Job:  map 81% reduce 26%
+2018-04-12 05:03:55,672 INFO mapreduce.Job:  map 82% reduce 26%
+2018-04-12 05:03:57,678 INFO mapreduce.Job:  map 83% reduce 27%
+2018-04-12 05:04:01,688 INFO mapreduce.Job:  map 84% reduce 27%
+2018-04-12 05:04:03,693 INFO mapreduce.Job:  map 85% reduce 27%
+2018-04-12 05:04:07,705 INFO mapreduce.Job:  map 86% reduce 27%
+2018-04-12 05:04:09,717 INFO mapreduce.Job:  map 87% reduce 28%
+2018-04-12 05:04:10,727 INFO mapreduce.Job:  map 88% reduce 28%
+2018-04-12 05:04:11,732 INFO mapreduce.Job:  map 89% reduce 28%
+2018-04-12 05:04:13,737 INFO mapreduce.Job:  map 90% reduce 28%
+2018-04-12 05:04:15,744 INFO mapreduce.Job:  map 91% reduce 30%
+2018-04-12 05:04:18,771 INFO mapreduce.Job:  map 93% reduce 30%
+2018-04-12 05:04:19,776 INFO mapreduce.Job:  map 94% reduce 30%
+2018-04-12 05:04:21,782 INFO mapreduce.Job:  map 95% reduce 31%
+2018-04-12 05:04:23,790 INFO mapreduce.Job:  map 96% reduce 31%
+2018-04-12 05:04:24,793 INFO mapreduce.Job:  map 97% reduce 31%
+2018-04-12 05:04:25,796 INFO mapreduce.Job:  map 98% reduce 31%
+2018-04-12 05:04:26,800 INFO mapreduce.Job:  map 99% reduce 31%
+2018-04-12 05:04:27,802 INFO mapreduce.Job:  map 100% reduce 33%
+2018-04-12 05:04:29,808 INFO mapreduce.Job:  map 100% reduce 100%
+2018-04-12 05:04:29,813 INFO mapreduce.Job: Job job_1523429052146_0013 completed successfully
+2018-04-12 05:04:29,944 INFO mapreduce.Job: Counters: 54
+	File System Counters
+		FILE: Number of bytes read=43525
+		FILE: Number of bytes written=103622529
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=524288118280
+		HDFS: Number of bytes written=89
+		HDFS: Number of read operations=2505
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=2
+	Job Counters 
+		Killed map tasks=1
+		Launched map tasks=501
+		Launched reduce tasks=1
+		Data-local map tasks=501
+		Total time spent by all maps in occupied slots (ms)=13375960
+		Total time spent by all reduces in occupied slots (ms)=342776
+		Total time spent by all map tasks (ms)=13375960
+		Total time spent by all reduce tasks (ms)=342776
+		Total vcore-milliseconds taken by all map tasks=13375960
+		Total vcore-milliseconds taken by all reduce tasks=342776
+		Total megabyte-milliseconds taken by all map tasks=13696983040
+		Total megabyte-milliseconds taken by all reduce tasks=351002624
+	Map-Reduce Framework
+		Map input records=500
+		Map output records=2500
+		Map output bytes=38519
+		Map output materialized bytes=46519
+		Input split bytes=61390
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=5
+		Reduce shuffle bytes=46519
+		Reduce input records=2500
+		Reduce output records=5
+		Spilled Records=5000
+		Shuffled Maps =500
+		Failed Shuffles=0
+		Merged Map outputs=500
+		GC time elapsed (ms)=49841
+		CPU time spent (ms)=2704470
+		Physical memory (bytes) snapshot=198738731008
+		Virtual memory (bytes) snapshot=1467563761664
+		Total committed heap usage (bytes)=318780211200
+		Peak Map Physical memory (bytes)=689577984
+		Peak Map Virtual memory (bytes)=3018981376
+		Peak Reduce Physical memory (bytes)=391880704
+		Peak Reduce Virtual memory (bytes)=2924077056
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=56890
+	File Output Format Counters 
+		Bytes Written=89
+2018-04-12 05:04:29,994 INFO fs.TestDFSIO: ----- TestDFSIO ----- : read
+2018-04-12 05:04:29,994 INFO fs.TestDFSIO:             Date & time: Thu Apr 12 05:04:29 EDT 2018
+2018-04-12 05:04:29,994 INFO fs.TestDFSIO:         Number of files: 500
+2018-04-12 05:04:29,994 INFO fs.TestDFSIO:  Total MBytes processed: 500000
+2018-04-12 05:04:29,994 INFO fs.TestDFSIO:       Throughput mb/sec: 41.82
+2018-04-12 05:04:29,994 INFO fs.TestDFSIO:  Average IO rate mb/sec: 119.15
+2018-04-12 05:04:29,994 INFO fs.TestDFSIO:   IO rate std deviation: 112.33
+2018-04-12 05:04:29,994 INFO fs.TestDFSIO:      Test exec time sec: 389.92
+2018-04-12 05:04:29,994 INFO fs.TestDFSIO: 

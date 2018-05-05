@@ -1,0 +1,134 @@
+Linux 3.10.0-693.el7.x86_64 (hadoop3) 	2018-04-19 	_x86_64_	(32 CPU)
+
+2018-04-19T22:17:13-0400
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sdb               6.48     0.03    6.34    1.53     0.46     0.75   315.77     0.82  104.50    8.01  504.23   1.13   0.89
+
+2018-04-19T22:17:15-0400
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sdb               0.00     0.00    0.00    0.00     0.00     0.00     0.00     0.00    0.00    0.00    0.00   0.00   0.00
+
+2018-04-19T22:17:17-0400
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sdb               0.00     0.00    0.00    0.00     0.00     0.00     0.00     0.00    0.00    0.00    0.00   0.00   0.00
+
+2018-04-19T22:17:19-0400
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sdb               0.00     0.00    0.00    0.00     0.00     0.00     0.00     0.00    0.00    0.00    0.00   0.00   0.00
+
+2018-04-19T22:17:21-0400
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sdb               0.00     0.00    0.00    0.00     0.00     0.00     0.00     0.00    0.00    0.00    0.00   0.00   0.00
+
+2018-04-19T22:17:23-0400
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sdb               0.00     0.00    0.00    1.00     0.00     0.00     1.50     0.01    6.00    0.00    6.00   6.00   0.60
+
+2018-04-19T22:17:25-0400
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sdb               0.00     0.00    0.00    0.00     0.00     0.00     0.00     0.00    0.00    0.00    0.00   0.00   0.00
+
+2018-04-19T22:17:27-0400
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sdb               0.00     0.00    0.00    0.00     0.00     0.00     0.00     0.00    0.00    0.00    0.00   0.00   0.00
+
+2018-04-19T22:17:29-0400
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sdb               0.00     0.00    0.00    0.00     0.00     0.00     0.00     0.00    0.00    0.00    0.00   0.00   0.00
+
+2018-04-19T22:17:31-0400
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sdb           13491.00     0.00  559.00    0.00    54.83     0.00   200.89     7.73    9.54    9.54    0.00   0.31  17.10
+
+2018-04-19T22:17:33-0400
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sdb           42868.00     0.00 1706.50    0.00   178.74     0.00   214.51    40.07   18.57   18.57    0.00   0.59 100.10
+
+2018-04-19T22:17:35-0400
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sdb           36112.00     0.00 1315.50    0.00   149.60     0.00   232.90    44.26   38.23   38.23    0.00   0.76 100.00
+
+2018-04-19T22:17:37-0400
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sdb           28076.00     0.00  958.00    0.00   114.84     0.00   245.50    39.71   43.12   43.12    0.00   1.04 100.00
+
+2018-04-19T22:17:39-0400
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sdb           65566.50     0.00 2542.00    0.00   272.46     0.00   219.51    36.56   11.93   11.93    0.00   0.39 100.00
+
+2018-04-19T22:17:41-0400
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sdb           25693.00     0.00  960.50    0.00   106.97     0.00   228.09    45.15   51.20   51.20    0.00   1.04 100.05
+
+2018-04-19T22:17:43-0400
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sdb           26712.50     0.00  891.00    0.00   109.35     0.00   251.34    42.74   43.31   43.31    0.00   1.12 100.00
+
+2018-04-19T22:17:45-0400
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sdb           39616.00     0.00 1435.00    0.00   164.20     0.00   234.34    39.20   29.51   29.51    0.00   0.70 100.00
+
+2018-04-19T22:17:47-0400
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sdb           40786.50     0.00 1696.50    0.00   169.34     0.00   204.42    39.70   21.77   21.77    0.00   0.59 100.05
+
+2018-04-19T22:17:49-0400
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sdb           41417.50     0.00 1461.00    0.00   169.05     0.00   236.97    40.70   29.95   29.95    0.00   0.68 100.00
+
+2018-04-19T22:17:51-0400
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sdb           38352.00     0.00 1452.50    0.00   157.79     0.00   222.48    36.77   25.66   25.66    0.00   0.69 100.00
+
+2018-04-19T22:17:53-0400
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sdb           57655.00     0.00 1859.00    0.00   235.15     0.00   259.06    35.78   17.13   17.13    0.00   0.54 100.00
+
+2018-04-19T22:17:55-0400
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sdb           47844.50     0.00 1861.50    0.00   197.27     0.00   217.04    36.37   20.71   20.71    0.00   0.54 100.00
+
+2018-04-19T22:17:57-0400
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sdb           68904.50     0.00 4921.00    0.00   291.41     0.00   121.28    34.92    5.19    5.19    0.00   0.20 100.00
+
+2018-04-19T22:17:59-0400
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sdb           68893.50     0.00 4833.00    0.00   289.14     0.00   122.52    34.56    9.59    9.59    0.00   0.21 100.05
+
+2018-04-19T22:18:01-0400
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sdb           26524.00     0.00  785.00    0.00   107.59     0.00   280.69    35.04   43.45   43.45    0.00   1.27 100.00
+
+2018-04-19T22:18:03-0400
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sdb           27167.50     0.00 1299.00    0.00   111.86     0.00   176.36    34.24   23.07   23.07    0.00   0.77 100.00
+
+2018-04-19T22:18:05-0400
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sdb           28885.00     0.00 1052.00    0.00   117.56     0.00   228.87    34.29   35.68   35.68    0.00   0.95 100.00
+
+2018-04-19T22:18:07-0400
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sdb           20372.50     0.00  715.00    0.00    82.70     0.00   236.88    34.46   44.69   44.69    0.00   1.40 100.00
+
+2018-04-19T22:18:09-0400
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sdb           33385.50     0.00 1381.50    0.00   136.47     0.00   202.30    34.27   26.28   26.28    0.00   0.72 100.00
+
+2018-04-19T22:18:11-0400
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sdb           24060.50     0.00  911.00    0.00    98.09     0.00   220.51    34.52   34.76   34.76    0.00   1.10 100.00
+
+2018-04-19T22:18:13-0400
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sdb           24752.50     0.00  709.50    0.00   100.31     0.00   289.54    34.69   47.23   47.23    0.00   1.41 100.00
+
+2018-04-19T22:18:15-0400
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sdb           23890.50     0.00  690.00    0.00    96.77     0.00   287.22    35.05   46.48   46.48    0.00   1.45 100.05
+
+2018-04-19T22:18:17-0400
+Device:         rrqm/s   wrqm/s     r/s     w/s    rMB/s    wMB/s avgrq-sz avgqu-sz   await r_await w_await  svctm  %util
+sdb           27340.50     0.00  775.50    0.00   111.18     0.00   293.62    34.86   45.32   45.32    0.00   1.29 100.00
+
